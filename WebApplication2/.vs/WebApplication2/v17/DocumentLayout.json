@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\models\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|c:\\users\\hasan\\source\\repos\\webapplication2\\webapplication2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FEB0A2-E141-407C-9F9C-1827375668FA}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAJAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:04:56.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Services\\EmailService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\EmailService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:44:25.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "WebApplication2\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:34:22.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T07:21:45.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAAAPoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:22:39.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:47:37.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "WebApplication2\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAMwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:58:56.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Services\\UserService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\UserService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:32:32.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "WebApplication2\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:32:36.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "WebApplication2\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:21:31.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:04:23.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Services\\AuthService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAGcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:04:22.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "WebApplication2\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:05:38.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "WebApplication2\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:05:58.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\LogController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\LogController.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\LogController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\LogController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:02:17.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:00:41.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "WebApplication2\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:57:09.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Repositories\\Repository.cs",
+              "RelativeToolTip": "WebApplication2\\Repositories\\Repository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:55:56.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "WebApplication2\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:54:09.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Logs.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Logs.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Logs.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Logs.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Logs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:44:12.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "WebApplication2\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:58:12.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "WebApplication2\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:59:18.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Response.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:17:48.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:06:50.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WebApplication2.csproj",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeDocumentMoniker": "WebApplication2\\WebApplication2.csproj",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeToolTip": "WebApplication2\\WebApplication2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-06T09:09:02.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:34:24.825Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
